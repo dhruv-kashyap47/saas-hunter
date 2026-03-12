@@ -1,0 +1,6 @@
+aiohttp
+praw
+beautifulsoup4
+pandas
+rich
+fake-useragent
